@@ -115,5 +115,5 @@ The complete 5-minute slide script and demo plan are in [`PRESENTATION.md`](PRES
 
 ## Authors
 
-Paul Omogiate Obamwonyi and project team.
+# Paul Omogiate Obamwonyi and project team.
 
