@@ -111,9 +111,8 @@ notebooks/shark_attacks_analysis.ipynb
 
 The complete 5-minute slide script and demo plan are in [`PRESENTATION.md`](PRESENTATION.md). Before submission, transfer the slides to Google Slides, Slides.com, or Prezi and place the public URL here.
 
-**Online presentation URL:** `**Online presentation:** [View the SharkSafe presentation] https://docs.google.com/presentation/d/16CIiEY-lrZ7CozCWQIiUFOawHzOPXwic/edit?usp=sharing&ouid=114013739664435241147&rtpof=true&sd=true)
-
+**Online presentation:** [View the SharkSafe presentation](https://docs.google.com/presentation/d/16CIiEY-IrZ7CozCWQIiUFOawHzOPXwic/edit?usp=sharing)
 ## Authors
 
-# Paul Omogiate Obamwonyi and project team.
+Paul Omogiate Obamwonyi and project team.
 
